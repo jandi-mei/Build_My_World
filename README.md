@@ -1,2 +1,2 @@
-# udacity_robotics
-All projects created for udacity nanodergee for robotics software engineer
+# Build My World
+Project1 Gazebo created for udacity nanodergee for robotics software engineer
