@@ -1,7 +1,7 @@
 # Build My World Project
 
 ## Project Overview
-The "Build My World" project is designed to simulate a robotic environment using the Gazebo simulator. In this project, you will create a custom world that includes a building structure and various objects, allowing for interaction through a C++ plugin. This project serves as a foundation for future robotics projects and enhances my skills in C++, Gazebo, and Linux.
+The "Build My World" project is designed to simulate a robotic environment using the Gazebo simulator. In this project, I created a custom world that includes a building structure and various objects, allowing for interaction through a C++ plugin. This project serves as a foundation for future robotics projects and enhances my skills in C++, Gazebo, and Linux.
 
 ## Packages and Tools Used
 - **Gazebo**: A powerful robot simulation tool that allows for the creation of complex environments and interactions.
